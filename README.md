@@ -10,8 +10,7 @@
 - Document challenges and solutions along the way  
 
 ## 🛠️ Tech Stack  
-- **Languages**: Python (primary), C++ (secondary), others as explored  
-- **Platform**: Pluralsight courses  
+- **Languages**: Python (primary), C++ (secondary), others as explored    
 - **Tools**: VS Code, Git, GitHub  
 
 ## 📖 Learning Goals  
